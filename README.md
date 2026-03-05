@@ -29,7 +29,13 @@ const RafaelKreusch = {
 ```
 <p align="center"> <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"> <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"> <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> </p>
 📊 GitHub Stats
-<div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelkreusch&show_icons=true&theme=tokyonight"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkreusch&layout=compact&theme=tokyonight"/> </div>
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelkreusch&show_icons=true&theme=tokyonight"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkreusch&layout=compact&theme=tokyonight"/>
+
+</div>
 🔥 GitHub Streak
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelkreusch&theme=tokyonight"/> </p>
 🐍 Contribution Snake
