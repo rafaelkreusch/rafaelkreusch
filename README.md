@@ -31,9 +31,9 @@ const RafaelKreusch = {
 📊 GitHub Stats
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelkreusch&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafaelkreusch&show_icons=true&theme=tokyonight"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkreusch&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafaelkreusch&layout=compact&theme=tokyonight"/>
 
 </div>
 🔥 GitHub Streak
