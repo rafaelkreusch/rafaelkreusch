@@ -42,7 +42,7 @@ const RafaelKreusch = {
 <p align="center"> <img src="https://raw.githubusercontent.com/rafaelkreusch/rafaelkreusch/output/github-contribution-grid-snake.svg"> </p>
 💻 About me
 
-Backend Developer focused on Python, FastAPI and Node.js
+Backend Developer focused on Python and FastAPI.
 
 Building APIs, automation systems and backend platforms
 
